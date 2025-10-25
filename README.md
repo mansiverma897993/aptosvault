@@ -1,4 +1,3 @@
-
 # 🏦 Aptos Vault Smart Contract 
 
 This project is part of the **Aptos Move Smart Contract Homework**, where we improved the efficiency of the Vault contract by removing redundant address derivations and directly using the `vault_address`.
